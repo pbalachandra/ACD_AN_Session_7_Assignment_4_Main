@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+    <string name="first_name">First Name : </string>
+    <string name="last_name">Last Name : </string>
+    <string name="button_text">Add Employee</string>
+    <string name="display_text">ID : %1$s, FirstName : %2$s, LastName : %3$s \n</string>
+</resources>
